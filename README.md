@@ -12,4 +12,4 @@ Run:
 npm i
 ```
 
-In your CL run 'testem' and follow the URL.
+Then run 'testem' in your commandline and follow the URL.
